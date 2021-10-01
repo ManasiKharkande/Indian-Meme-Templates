@@ -390,5 +390,11 @@
         "name": "kapil sharma",
         "description": "Thug life Memes",
         "template": "https://www.youtube.com/watch?v=Gae08ynfmCw"
+    },
+  {
+        "id": 60,
+        "name": "Monisha beta",
+        "description": "Middle class",
+        "template": "https://imgflip.com/memegenerator/240993474/Monisha-Beta"
     }
 ]
